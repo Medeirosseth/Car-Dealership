@@ -1,0 +1,15 @@
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/bin/Debug/net5.0/lonnyslemons.deps.json
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/bin/Debug/net5.0/lonnyslemons.runtimeconfig.json
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/bin/Debug/net5.0/lonnyslemons.runtimeconfig.dev.json
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/bin/Debug/net5.0/lonnyslemons.dll
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/bin/Debug/net5.0/ref/lonnyslemons.dll
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/bin/Debug/net5.0/lonnyslemons.pdb
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/lonnyslemons.csprojAssemblyReference.cache
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/lonnyslemons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/lonnyslemons.AssemblyInfoInputs.cache
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/lonnyslemons.AssemblyInfo.cs
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/lonnyslemons.csproj.CoreCompileInputs.cache
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/lonnyslemons.dll
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/ref/lonnyslemons.dll
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/lonnyslemons.pdb
+/Users/seth/Desktop/Lonnys-Lemons/car-dealership/obj/Debug/net5.0/lonnyslemons.genruntimeconfig.cache
